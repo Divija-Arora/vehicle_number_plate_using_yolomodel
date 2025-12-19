@@ -1,0 +1,18 @@
+train: r"C:\Users\Dell\Desktop\yolo_models\train"
+val: r"C:\Users\Dell\Desktop\yolo_models\val"
+
+nc: 1
+names: ['number_plate']
+
+# This file is used to define the paths for training and validation datasets
+# 'nc' is the number of classes, and 'names' is a list of class names.
+# Make sure to adjust the paths according to your dataset structure.
+# Example:
+# train: "/path/to/train"
+# val: "/path/to/val"
+# nc: 1  # Number of classes
+# names: ['class_name']  # List of class names
+# Ensure that the paths are absolute or relative to the current working directory.
+# The paths should point to the directories containing the training and validation images.
+# The 'train' directory should contain images for training, and the 'val' directory should
+# contain images for validation. The images should be in a format supported by YOLO (e.g., .jpg, .png).

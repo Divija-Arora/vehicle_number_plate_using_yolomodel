@@ -1,0 +1,6 @@
+train: r'C:\Users\Dell\Desktop\yolo_models\augmented_simple\images'
+val: r'C:\Users\Dell\Desktop\yolo_models\augmented_simple\images'  # same since no val set
+
+nc: 1
+names: ['car']
+

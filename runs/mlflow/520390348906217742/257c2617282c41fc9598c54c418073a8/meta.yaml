@@ -1,0 +1,15 @@
+artifact_uri: /home/alok_kumar/computer_vision/yolo_models/runs/mlflow/520390348906217742/257c2617282c41fc9598c54c418073a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '520390348906217742'
+lifecycle_stage: active
+run_id: 257c2617282c41fc9598c54c418073a8
+run_name: train
+run_uuid: 257c2617282c41fc9598c54c418073a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762602933231
+status: 1
+tags: []
+user_id: alok_kumar
